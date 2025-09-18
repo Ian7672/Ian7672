@@ -1,97 +1,13 @@
 # <div align="center">👋 Hi there, I'm **Ian7672**</div>
 
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 I'm a developer who loves experimenting with **Android system mods, cross-platform apps, and portable tools**.  
 My projects are mostly around:
 
-- ⚡ **Android System Mods** (Magisk Modules: performance tweaks, audio, network, etc.)  
-- 📱 **Cross-platform Apps** with **Flutter + Laravel API**  
-- 🖥️ **Portable Apps** for Windows and Linux  
-- 🌐 **Web Development** with **Laravel, HTML, CSS, JS**  
 
 
 <br clear="right"/>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **What I Build**
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ **Android System Mods**
-```bash
-┌─ Magisk Modules
-├── 🎵 Audio Enhancement
-├── 🚀 Performance Tweaks  
-├── 🌐 Network Optimization
-├── 🔋 Battery Management
-└── 🎨 UI/UX Modifications
-```
-
-### 📱 **Cross-Platform Development**
-```bash
-┌─ Flutter + Laravel Stack
-├── 📊 REST API Integration
-├── 💾 Database Management
-├── 🔐 Authentication Systems
-└── 📱 Responsive Mobile UI
-```
-
-</td>
-<td width="50%">
-
-### 🖥️ **Portable Applications**
-```bash
-┌─ Windows & Linux Tools
-├── 🛠️ System Utilities
-├── 📁 File Management
-├── 🔧 Developer Tools
-└── 🎯 Productivity Apps
-```
-
-### 🌐 **Web Development**
-```bash
-┌─ Full-Stack Solutions
-├── 🎨 Frontend (HTML/CSS/JS)
-├── ⚙️ Backend (Laravel/PHP)
-├── 🗄️ Database Design
-└── 📡 API Development
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Rik/giphy.gif" width="25"> **Tech Arsenal**
-
-<div align="center">
-
-### Languages & Frameworks
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Platforms
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> **Explore My Projects**
 
@@ -116,6 +32,76 @@ My projects are mostly around:
 </div>
 
 ---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **What I Build**
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ **Android System Mods**
+```bash
+├── 🎵 Audio Enhancement
+├── 🚀 Performance Tweaks  
+├── 🌐 Network Optimization
+├── 🔋 Battery Management
+└── 🎨 UI/UX Modifications
+```
+
+### 📱 **Cross-Platform Development**
+```bash
+┌─ Flutter + Laravel Stack
+├── 📊 REST API Integration
+├── 💾 Database Management
+├── 🔐 Authentication Systems
+└── 📱 Responsive Mobile UI
+```
+
+</td>
+<td width="50%">
+
+### 🖥️ **Portable Applications**
+```bash
+┌─ Windows & Linux Tools
+├── 🛠️ System Utilities
+├── 📁 File Management
+└── 🎯 Productivity Apps
+```
+
+### 🌐 **Web Development**
+```bash
+┌─ Full-Stack Solutions
+├── 🎨 Frontend (HTML/CSS/JS)
+├── ⚙️ Backend (Laravel/PHP)
+├── 🗄️ Database Design
+└── 📡 API Development
+```
+
+</td>
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Rik/giphy.gif" width="25"> **Tech Arsenal**
+
+<div align="center">
+
+### Languages & Frameworks
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Platforms
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **GitHub Analytics**
 
