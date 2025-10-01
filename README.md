@@ -196,14 +196,6 @@ My projects are mostly around:
 
 </div>
 
-
-<blockquote>
-💡 <b>Donation Purpose:</b><br/>
-<i>"To support continuous development, server costs, and help me dedicate more time to creating awesome open-source projects. Every contribution helps! 🙏"</i>
-</blockquote>
-
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/LPz0aRBM13I80PGpKj/giphy.gif" width="25"> **Connect With Me**
