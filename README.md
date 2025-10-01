@@ -183,11 +183,19 @@ My projects are mostly around:
 *If you find my projects helpful and want to support continued development* 🚀
 <div align="center">
 
-| 💳 PayPal | 🇮🇩 Trakteer | ☕ Ko-fi |
-|-----------|-------------|----------|
-| [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/luqmanijsp)<br><sub><i>International donations</i></sub> | [![Trakteer](https://img.shields.io/badge/Trakteer-E74C3C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)](https://trakteer.id/Ian7672)<br><sub><i>Indonesian platform</i></sub> | [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Ian7672)<br><sub><i>Buy me a coffee</i></sub> |
+| 💳 PayPal | 🇮🇩 Trakteer | ☕ Ko-fi | 💖 Saweria |
+|-----------|-------------|----------|------------|
+| [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/luqmanijsp)<br><sub><i>International donations</i></sub> | [![Trakteer](https://img.shields.io/badge/Trakteer-E74C3C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)](https://trakteer.id/Ian7672)<br><sub><i>Indonesian platform</i></sub> | [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Ian7672)<br><sub><i>Buy me a coffee</i></sub> | [![Saweria](https://img.shields.io/badge/Saweria-FFAE00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://saweria.co/Ian7672)<br><sub><i>Support via Saweria</i></sub> |
 
 </div>
+
+<blockquote>
+💡 <b>Donation Purpose:</b><br/>
+<i>"To support continuous development, server costs, and help me dedicate more time to creating awesome open-source projects. Every contribution helps! 🙏"</i>
+</blockquote>
+
+</div>
+
 
 <blockquote>
 💡 <b>Donation Purpose:</b><br/>
